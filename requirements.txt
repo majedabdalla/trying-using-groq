@@ -1,1 +1,5 @@
-python
+python-telegram-bot>=20.0
+groq-client
+agno
+gunicorn
+uvicorn
